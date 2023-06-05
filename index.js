@@ -67,5 +67,5 @@ function iniciarCajero() {
     }
 }
 
-// Ejecutar el simulador del cajero automático
+
 iniciarCajero();
